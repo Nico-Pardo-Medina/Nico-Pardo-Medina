@@ -6,6 +6,8 @@ Python developer specialising in machine learning and data science, with experie
 
 ### 🌐 [**View my portfolio →**](https://nico-pardo-medina.github.io/)
 
+🏆 **Winner** — JOBMadrid Junior Hackathon (2021)
+
 ---
 
 ## Projects
@@ -40,6 +42,7 @@ Python developer specialising in machine learning and data science, with experie
 **Backend:** FastAPI, Flask, SQLAlchemy, Pydantic, pytest  
 **Data & Big Data:** PySpark, Hadoop, Hive, Databricks, PostgreSQL, MongoDB  
 **Tools:** Docker, Git, AWS CDK, Selenium, Odoo, Unity  
+**Spoken languages:** Spanish (native), English (professional), Catalan / French / Romanian (conversational)  
 
 ---
 
