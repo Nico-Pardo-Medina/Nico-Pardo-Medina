@@ -38,7 +38,7 @@ Python developer specialising in machine learning and data science, with experie
 **ML / Data:** TensorFlow, Keras, PyTorch, scikit-learn, OpenCV, pandas, NumPy  
 **NLP & Generative AI:** spaCy, NLTK, LLMs, RAG, LoRA fine-tuning, tool-calling agents, Hugging Face, Ollama  
 **Backend:** FastAPI, Flask, SQLAlchemy, Pydantic, pytest  
-**Data & Big Data:** PySpark, Hadoop, Hive, PostgreSQL, MongoDB  
+**Data & Big Data:** PySpark, Hadoop, Hive, Databricks, PostgreSQL, MongoDB  
 **Tools:** Docker, Git, AWS CDK, Selenium, Odoo, Unity  
 
 ---
