@@ -36,7 +36,7 @@ Python developer specialising in machine learning and data science, with experie
 
 **Languages:** Python, Java, C#, Go, SQL  
 **ML / Data:** TensorFlow, Keras, PyTorch, scikit-learn, OpenCV, pandas, NumPy  
-**Generative AI:** LLMs, RAG, LoRA fine-tuning, tool-calling agents, Hugging Face, Ollama  
+**NLP & Generative AI:** spaCy, NLTK, LLMs, RAG, LoRA fine-tuning, tool-calling agents, Hugging Face, Ollama  
 **Backend:** FastAPI, Flask, SQLAlchemy, Pydantic, pytest  
 **Data & Big Data:** PySpark, Hadoop, Hive, PostgreSQL, MongoDB  
 **Tools:** Docker, Git, AWS CDK, Selenium, Odoo, Unity  
