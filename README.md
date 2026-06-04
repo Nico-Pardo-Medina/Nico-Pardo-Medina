@@ -16,6 +16,10 @@ Python developer specialising in machine learning and data science, with experie
 
 **[owl-nest-watcher](https://github.com/Nico-Pardo-Medina/owl-nest-watcher)** — Desktop tool that analyses batches of nest-camera videos and produces timestamped activity reports. Built with OpenCV and Tkinter for wildlife biologists, with the detection logic decoupled from the GUI so it works for any motion-detection scenario.
 
+### Generative AI
+
+**[ifc-chatbot](https://github.com/Nico-Pardo-Medina/ifc-chatbot)** — An exploration of LLM approaches for querying IFC building models in natural language. Covers RAG (sentence-transformers + FAISS), LoRA fine-tuning of Qwen, and a tool-calling agent over `ifcopenshell`-parsed building data. Built to learn the modern LLM stack end to end.
+
 ### Backend & APIs
 
 **[car-booking-api](https://github.com/Nico-Pardo-Medina/car-booking-api)** — REST API for car bookings built with FastAPI. Layered architecture (routers / services / models), native Pydantic validation, an 8-test pytest suite, and Docker.
@@ -32,6 +36,7 @@ Python developer specialising in machine learning and data science, with experie
 
 **Languages:** Python, Java, C#, Go, SQL  
 **ML / Data:** TensorFlow, Keras, PyTorch, scikit-learn, OpenCV, pandas, NumPy  
+**Generative AI:** LLMs, RAG, LoRA fine-tuning, tool-calling agents, Hugging Face, Ollama  
 **Backend:** FastAPI, Flask, SQLAlchemy, Pydantic, pytest  
 **Data & Big Data:** PySpark, Hadoop, Hive, PostgreSQL, MongoDB  
 **Tools:** Docker, Git, AWS CDK, Selenium, Odoo, Unity  
