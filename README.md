@@ -22,6 +22,8 @@ Python developer specialising in machine learning and data science, with experie
 
 **[ifc-chatbot](https://github.com/Nico-Pardo-Medina/ifc-chatbot)** — An exploration of LLM approaches for querying IFC building models in natural language. Covers RAG (sentence-transformers + FAISS), LoRA fine-tuning of Qwen, and a tool-calling agent over `ifcopenshell`-parsed building data. Built to learn the modern LLM stack end to end.
 
+**[llm-job-rater](https://github.com/Nico-Pardo-Medina/llm-job-rater)** — An LLM job-fit rater (Qwen3-8B via Ollama) and a semantic question-matcher, built with a real evaluation harness: blind human-labelled ground truth, versioned prompt iteration, and metrics (precision/recall/F1, MAE, Spearman) tracked in MLflow.
+
 ### Backend & APIs
 
 **[car-booking-api](https://github.com/Nico-Pardo-Medina/car-booking-api)** — REST API for car bookings built with FastAPI. Layered architecture (routers / services / models), native Pydantic validation, an 8-test pytest suite, and Docker.
